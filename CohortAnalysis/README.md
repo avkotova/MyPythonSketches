@@ -32,4 +32,4 @@ The cohort analysis results in the following heatmaps:
 - The percentage-based heatmap shows the retention rate of parents per cohort.  
 - The absolute values (number of engaged parents) are overlaid on the same heatmap for better clarity, ensuring both relative and absolute engagement trends are visible in a single view.  
 
-![Cohort Analysis Result](CohortAnalysis/cohort_analysis_result.png)  
+![Cohort Analysis Result](cohort_analysis_result.png)  
