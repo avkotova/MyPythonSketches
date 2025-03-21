@@ -24,7 +24,7 @@ This helps easily spot trends and optimize marketing efforts.
 ## Files  
 - `cohort_analysis.py` – Python script for data processing and visualization.  
 - `mock_data.csv` – Sample dataset for testing.  
-- `cohort_analysis_result.jpg` – Example of the generated heatmap.  
+- `cohort_analysis_result.png` – Example of the generated heatmap.  
 
 ## Visualization  
 The cohort analysis results in the following heatmaps:  
@@ -32,4 +32,4 @@ The cohort analysis results in the following heatmaps:
 - The percentage-based heatmap shows the retention rate of parents per cohort.  
 - The absolute values (number of engaged parents) are overlaid on the same heatmap for better clarity, ensuring both relative and absolute engagement trends are visible in a single view.  
 
-![Cohort Analysis Result](CohortAnalysis/cohort_analysis_result.jpg)  
+![Cohort Analysis Result](CohortAnalysis/cohort_analysis_result.png)  
